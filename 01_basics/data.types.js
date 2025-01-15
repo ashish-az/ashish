@@ -75,3 +75,8 @@
 // i)               Object                                object
 // ii)              Array                                  object
 // iii)             Function                            function(object)
+
+
+// ********************************************************
+
+// stack (primitive)    heap (non-primitve)
