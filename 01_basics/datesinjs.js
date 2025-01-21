@@ -1,1 +1,3 @@
-// dates in javascript 
+// dates in javascript
+
+let Date = new Date
